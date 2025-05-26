@@ -14,7 +14,7 @@
 #define WIFI_PASS ""
 
 #define TB_SERVER "thingsboard.cloud"
-#define TOKEN "qGHwrUGoCIncPF6LrD50"
+#define TOKEN "****"
 
 constexpr uint16_t MAX_MESSAGE_SIZE = 128U;
 WiFiClient espClient;

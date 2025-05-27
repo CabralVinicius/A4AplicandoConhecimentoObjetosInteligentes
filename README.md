@@ -1,6 +1,6 @@
 # Smart Water Tank Monitoring & Control System
 
-[![Vídeo-Demonstração](video/thumbnail.png)](https://youtu.be/SEU_LINK_AQUI)  
+🎦 (https://youtu.be/SEU_LINK_AQUI)  
 *Clique na imagem para assistir ao vídeo (não listado).*
 
 ---
